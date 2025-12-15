@@ -1,0 +1,3 @@
+1	Cages à squat	Équipements fonctionnels / CrossFit	energy gym	1	disponible
+2	Vélo elliptique	Équipements fonctionnels / CrossFit	energy gym	3	disponible
+3	Rameur	Cardio	energy gym	100	disponible
